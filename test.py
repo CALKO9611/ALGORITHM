@@ -2,6 +2,7 @@ print("Replit과 Github 연동 확인 TEST")
 print("username과 useremail 설정 TEST")
 print("prettier 설정 확인 TEST")
 print("iPad replit 설치 TEST")
+print("iPad replit 웹사이트 TEST")
 
 # prettier 파이썬 파일 적용 방법
 # 1. 설치 (진행 완료)
